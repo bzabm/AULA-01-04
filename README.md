@@ -1,6 +1,6 @@
 Projeto da aula de Paradgma da aula 01/04
 
-Anna Heloisy Raymundo Nicolau
+Anna Heloisy Raymundo Nicolau \n
 Beatriz Abreu Bom 
 Beatriz Freire Lourenço
 Glauciele Rossi da Silva
